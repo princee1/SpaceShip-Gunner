@@ -1,0 +1,14 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "%USERPROFILE%\\slick\\lib\\jinput.jar",
+            "%USERPROFILE%\\slick\\lib\\lwjgl.jar",
+            "%USERPROFILE%\\slick\\lib\\lwjgl_util.jar",
+            "%USERPROFILE%\\slick\\lib\\slick.jar"
+        ],
+        "exclude": [
+            "lib/jinput.jar"
+        ]
+    }
+}
